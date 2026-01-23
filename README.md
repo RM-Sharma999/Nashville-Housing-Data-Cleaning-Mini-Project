@@ -3,8 +3,6 @@
 
 Practiced a wide range of **SQL queries** including **Aggregate Functions, Joins, Self Joins, Window Functions, CTEs, Temp Tables and Views** to clean this dataset.
 
-Queries:  https://github.com/RM-Sharma999/NASHVILLE-HOUSING-DATA-CLEANING-Mini-Project/blob/main/Nashville%20Housing%20Data%20Cleaning%20Portfolio%20Project.sql
-
 ![Queries](https://github.com/RM-Sharma999/NASHVILLE-HOUSING-DATA-CLEANING-Mini-Project/blob/main/Nashville%20Housing%20Data%20Cleaning%20Portfolio%20Project.sql)
 
 ## Technologies used:
