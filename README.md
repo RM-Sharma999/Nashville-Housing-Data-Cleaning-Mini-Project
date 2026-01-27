@@ -7,7 +7,7 @@ Practiced a wide range of **SQL queries** including **Aggregate Functions, Joins
 
 ## Technologies used:
 
-• SQL/SSMS(SQL Server Management Studio)
+• SQL/SSMS (SQL Server Management Studio)
 
 • Excel
 
@@ -17,4 +17,4 @@ Practiced a wide range of **SQL queries** including **Aggregate Functions, Joins
 
 • Loaded into SSMS.
 
-• Utilized SQL Queries to Clean the Data.
+• Utilized **SQL Queries** to Clean the Data.
