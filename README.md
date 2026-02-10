@@ -5,11 +5,15 @@ Practiced a wide range of **SQL queries** including **Aggregate Functions, Joins
 
 ![Queries](https://github.com/RM-Sharma999/NASHVILLE-HOUSING-DATA-CLEANING-Mini-Project/blob/main/Nashville%20Housing%20Data%20Cleaning%20Portfolio%20Project.sql)
 
+---
+
 ## Technologies used:
 
 • SQL/SSMS (SQL Server Management Studio)
 
 • Excel
+
+---
 
 ## Cleaning Process:
 
